@@ -23,4 +23,5 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+I am Mingche. I am a senior Computer Science and Philosophy double major. I am currently studying off campus (in China).
+I spent the first half of the summer in my student dorm room in St. Andrews, Scotland because my flights were cancelled five times when I was trying to go back to China. After I went back home, I helped my parents furnish their house and cooked alot. My family and I spent lots of time together, hiking and chatting.
